@@ -4,6 +4,7 @@
 This project is an end-to-end machine learning and business intelligence solution designed to predict customer churn, segment customers into meaningful groups, and provide actionable insights through dashboards and deployment-ready APIs.
 
 ---
+## Web app link : http://54.234.5.148:8000/web
 
 ## 🚀 Project Objective
 
